@@ -1,0 +1,16 @@
+{
+  "ok": true,
+  "spriteVersionNumber": 2,
+  "run_dir": "/Users/russell/Documents/Pets/pets/webster",
+  "spritesheet": "/Users/russell/Documents/Pets/pets/webster/final/spritesheet-extended.webp",
+  "validation": "/Users/russell/Documents/Pets/pets/webster/final/validation-extended.json",
+  "chroma_despill": "/Users/russell/Documents/Pets/pets/webster/qa/chroma-despill-extended.json",
+  "contact_sheet": "/Users/russell/Documents/Pets/pets/webster/qa/contact-sheet-extended.png",
+  "direction_sheet": "/Users/russell/Documents/Pets/pets/webster/qa/look-directions.png",
+  "direction_semantics": "/Users/russell/Documents/Pets/pets/webster/qa/direction-semantics.json",
+  "blind_direction_validation": "/Users/russell/Documents/Pets/pets/webster/qa/direction-blind-validation.json",
+  "blind_review_resolution": null,
+  "continuity": "/Users/russell/Documents/Pets/pets/webster/qa/look-continuity.json",
+  "review": "/Users/russell/Documents/Pets/pets/webster/qa/review.json",
+  "package": "/Users/russell/.codex/pets/webster"
+}

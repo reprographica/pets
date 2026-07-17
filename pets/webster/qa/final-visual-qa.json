@@ -1,0 +1,12 @@
+{
+  "ok": true,
+  "visual_qa": "pass",
+  "reviewed_by": "independent final visual QA worker",
+  "summary": "Webster remains consistent across all rows; regenerated running-left is clean, unclipped, screen-left-facing with alternating gait and no detached fragments, frame-6/7 baseline drop, or extraction-induced size pop.",
+  "repair_rows": [],
+  "accepted_warnings": [
+    "running-left stable-slots extraction is visually stable",
+    "blind intermediate-axis ambiguities are resolved by labeled loop review",
+    "157.5-to-180 and 337.5-to-000 metric outliers are visible pose-family transitions without semantic reversal, identity break, or registration snap"
+  ]
+}

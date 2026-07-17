@@ -1,0 +1,22 @@
+{
+  "ok": true,
+  "reviewed_by": ["independent row-9 visual QA worker", "independent row-10 visual QA worker"],
+  "directions": [
+    {"direction":"000","expected":"up","verdict":"pass","observed":"up","reason":"Lifted chin, raised nose, and upward pupils clearly read up."},
+    {"direction":"022.5","expected":"up-right","verdict":"pass","observed":"up-right","reason":"Pupils and nose begin shifting screen-right while the muzzle remains pitched up."},
+    {"direction":"045","expected":"up-right","verdict":"pass","observed":"up-right","reason":"Head yaw and pupils advance evenly up-right."},
+    {"direction":"067.5","expected":"up-right","verdict":"pass","observed":"up-right","reason":"Nose moves farther right with a remaining upward eye cue."},
+    {"direction":"090","expected":"right","verdict":"pass","observed":"right","reason":"Nose tip, pupils, and head profile unmistakably face screen-right."},
+    {"direction":"112.5","expected":"down-right","verdict":"pass","observed":"down-right","reason":"Rightward yaw remains clear as chin and gaze begin lowering."},
+    {"direction":"135","expected":"down-right","verdict":"pass","observed":"down-right","reason":"Nose stays right of head center while eyelids and muzzle pitch read down-right."},
+    {"direction":"157.5","expected":"down-right","verdict":"pass","observed":"down-right","reason":"Tucked head and lowered eyelids read down while nose remains screen-right."},
+    {"direction":"180","expected":"down","verdict":"pass","observed":"down","reason":"Nose centered and lowered into chest; pupils down beneath narrowed lids."},
+    {"direction":"202.5","expected":"down-left","verdict":"pass","observed":"down-left","reason":"Nose and pupils begin moving screen-left while chin remains tucked."},
+    {"direction":"225","expected":"down-left","verdict":"pass","observed":"down-left","reason":"Clear down-left head yaw with lowered gaze and more image-right cheek visible."},
+    {"direction":"247.5","expected":"down-left","verdict":"pass","observed":"down-left","reason":"Nose advances farther screen-left while retaining a downward eye and muzzle angle."},
+    {"direction":"270","expected":"left","verdict":"pass","observed":"left","reason":"Unmistakable screen-left three-quarter profile with nose and pupils left of head center."},
+    {"direction":"292.5","expected":"up-left","verdict":"pass","observed":"up-left","reason":"Nose remains screen-left while pupils and chin lift into up-left."},
+    {"direction":"315","expected":"up-left","verdict":"pass","observed":"up-left","reason":"Strong up-left gaze with raised pupils, lifted muzzle, and stable planted torso."},
+    {"direction":"337.5","expected":"up-left","verdict":"pass","observed":"up-left","reason":"Readable screen-left nose offset and upward pupils, landing smoothly one step before 000."}
+  ]
+}
